@@ -1,0 +1,4 @@
+인덱스, 학교명, url, 공지사항url, 파싱tag, class, id
+1, 경희여중, http://www.kyungheegls.ms.kr/, http://www.kyungheegls.ms.kr/notice/board.do?bcfNo=642753, table, board_list,
+2, 동대부중, http://dongguk.ms.kr/, http://dongguk.ms.kr/normal/board.do?bcfNo=2030863, table, board_list,
+3, 동대문중, http://www.dongdaemun.ms.kr/index.do, http://www.dongdaemun.ms.kr/18628/subMenu.do, table, board_type01_tb_list,
